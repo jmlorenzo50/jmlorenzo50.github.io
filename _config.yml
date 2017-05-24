@@ -1,11 +1,11 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Jorge Morales Lorenzo - Web Developer
+description: "PJ de la Web"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://jmlorenzo50.githu.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Jorge Morales Lorenzo
-user_title: Lorem Ipsum - FrontEnd
+user_title: PJ de la Web
 email: lorem.lorem@ipsum.com
 twitter_username: jmlorenzo50
 github_username:  jmlorenzo50
@@ -29,15 +29,10 @@ compress_html:
 # Links to include in menu navigation
 links:
   - title: home
-    url: /
-  - title: my posts
+    url: https://www.jmlorenzo.es
+  - title: techs
     url: /posts
-  - title: series
-    url: /series
-  - title: tags
-    url: /tags
-  - title: about me
-    url: /about
+
 # projects in header index
 projects:
   - name: StawDial

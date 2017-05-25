@@ -4,11 +4,7 @@ title:  "Experiencia Laboral"
 image: ''
 date:   2017-05-25 00:06:32
 tags:
-- proyectos
-- experiencia laboral
-- indra
-- sogeti
-- java
+- experiencia, laboral, proyecto, indra, sogeti, java, jsp
 description: ''
 categories:
 - Learn Jekyll 

@@ -5,6 +5,11 @@ image: ''
 date:   2017-05-25 00:06:31
 tags:
 - formacion
+- universidad
+- titulo
+- java
+- jsp
+- oracle
 description: ''
 categories:
 - Learn Jekyll 

@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Proyecto"
+title:  "Experiencia Laboral"
 image: ''
 date:   2017-05-25 00:06:32
 tags:
 - proyectos
+- experiencia laboral
+- indra
+- sogeti
+- java
 description: ''
 categories:
 - Learn Jekyll 

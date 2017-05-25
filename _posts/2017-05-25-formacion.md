@@ -19,7 +19,7 @@ categories:
 	}
 	
 	titulacion.modulo {
-		titulo: "Ciclo Formativo Grado Superior - Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+		titulo: "CFGS - Técnico Superior en Desarrollo de Aplicaciones Informáticas",
 		fecha_fin: "2001",
 		centro: "LEONARDO DA VINCI España"
 	}

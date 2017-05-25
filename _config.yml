@@ -2,7 +2,7 @@
 title: Jorge Morales Lorenzo - Web Developer
 description: "PJ de la Web"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "https://cv.jmlorenzo.es" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://cv.jmlorenzo.es" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Jorge Morales Lorenzo
 user_title: PJ de la Web
@@ -29,7 +29,7 @@ compress_html:
 # Links to include in menu navigation
 links:
   - title: Inicio
-    url: http://cv.jmlorenzo.es
+    url: /
   - title: Experiencia Laboral
     url: /proyectos
   - title: Formación

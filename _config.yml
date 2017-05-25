@@ -28,11 +28,13 @@ compress_html:
 
 # Links to include in menu navigation
 links:
-  - title: home
-    url: /
-  - title: techs
-    url: /posts
-
+  - title: Inicio
+    url: http://cv.jmlorenzo.es
+  - title: Experiencia Laboral
+    url: /proyectos
+  - title: Formación
+    url: /formacion
+  
 # projects in header index
 projects:
   - name: StawDial

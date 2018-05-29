@@ -29,6 +29,31 @@ categories:
 
 ### Formación
 {% highlight javascript %}
+
+		formacion.c0E {
+			nombre: "Iniciando con Containers en Docker",
+			fecha_ini: "28/04/2018",
+			fecha_fin: "29/04/2018",
+			formador: "Udemy",
+			horas: 2.5
+		}
+
+		formacion.c0D {
+			nombre: "Mule ESB",
+			fecha_ini: "02/04/2018",
+			fecha_fin: "02/04/2018",
+			formador: "Udemy",
+			horas: 2.5
+		}
+		
+		formacion.c0C {
+			nombre: "Domina Jenkins CI para DevOps y Desarrolladores",
+			fecha_ini: "02/04/2018",
+			fecha_fin: "02/04/2018",
+			formador: "Udemy",
+			horas: 1.5
+		}		
+
 		formacion.c0B {
 			nombre: "Git y GitHub Completo Desde Cero",
 			fecha_ini: "25/05/2017",
